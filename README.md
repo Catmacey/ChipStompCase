@@ -13,7 +13,7 @@ The case is split into three stacking parts, the top, middle and bottom.
 ![ChipStomp](Images/ChipStomp__NoTop.png?w=300)
 ![ChipStomp](Images/ChipStomp__Foot.png?w=300)
 
-The case fits the SOB 100x80mm PCB and is held togethjer by screws from underneath.
+The case fits the Dangerous Prototypes [Sick of Beige (SOB)](http://dangerousprototypes.com/docs/Sick_of_Beige_standard_PCB_sizes_v1.0) 100x80mm PCB and is held togethjer by screws from underneath.
 The lower "foot" has a space for a standard 3 cell AA battery holder.
 
 ![ChipStomp](Images/real_lid_off.jpg?w=900)
